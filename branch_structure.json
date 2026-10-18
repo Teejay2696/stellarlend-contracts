@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-1943-quality-medium-improve-multisig-governance-and",
+    "solver/issue-2252-32-a0"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-1943-quality-medium-improve-multisig-governance-and": "main",
+    "solver/issue-2252-32-a0": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-1943-quality-medium-improve-multisig-governance-and",
+    "solver/issue-2252-32-a0"
+  ]
+}
